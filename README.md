@@ -1,4 +1,4 @@
-# ☁️ ENTENDDENDO SOBRE SEGURANÇA E IDENTIDADE NO AZURE  
+# ☁️ ENTENDENDO SOBRE SEGURANÇA E IDENTIDADE NO AZURE  
  
 <p align="center">
   <img src="https://i.postimg.cc/Gmxtwttm/azure-fundamentals.png" width="256">
